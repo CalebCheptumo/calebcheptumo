@@ -15,3 +15,6 @@
 
 
 [![Cheptumo's github activity graph](https://activity-graph.herokuapp.com/graph?username=calebcheptumo&theme=dracula)](https://github.com/calebcheptumo/github-readme-activity-graph)
+
+![]( http://localhost:5100/graph?username=calebcheptumo&bg_color=f4fa9c&color=17b978&line=17b978&point=17b978)
+
