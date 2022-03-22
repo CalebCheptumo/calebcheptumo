@@ -12,4 +12,4 @@
 
 ![](https://komarev.com/ghpvc/?username=calebcheptumo&color=green)
 
-[![Cheptumo's github activity graph](https://activity-graph.herokuapp.com/graph?username=calebcheptumo&custom_title=John%20Oseni%20Commits%20title&hide_border=true)](https://github.com/calebcheptumo/github-readme-activity-graph)
+[![Cheptumo's github activity graph](https://activity-graph.herokuapp.com/graph?username=calebcheptumo&custom_title=JCaleb%20OCheptumo%20Commits&hide_border=true)](https://github.com/calebcheptumo/github-readme-activity-graph)
