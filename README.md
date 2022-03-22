@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👋 Hi, I’m @Cheptumo
+### 👋 Hi, I’m Cheptumo
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate with other developers
