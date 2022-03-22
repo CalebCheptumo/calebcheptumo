@@ -6,6 +6,10 @@
 - 📫 How to reach me ckibusia@gmail.com
 - ⚡ Fun fact: I enjoy cooking. My specialty is homemade spaghetti and meatballs.
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=calebcheptumo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![Cheptumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcheptumo&count_private=true&theme=tokyonight&showicons=true)]()
 
 
