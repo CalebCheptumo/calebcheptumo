@@ -9,3 +9,5 @@
 [![Cheptumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcheptumo&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcheptumo&langs_count=5&theme=tokyonight)]()
+
+![Visitor Count](https://profile-counter.glitch.me/calebcheptumo/count.svg)
