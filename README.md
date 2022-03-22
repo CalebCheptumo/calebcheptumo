@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I enjoy cooking. My specialty is homemade spaghetti and meatballs.
 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=calebcheptumo.calebcheptumo) [![Github](https://img.shields.io/github/followers/calebcheptumo?label=Followers&logo=Github)](https://github.com/calebcheptumo)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=calebcheptumo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -18,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcheptumo&langs_count=5&theme=tokyonight)]()
 
-![](https://komarev.com/ghpvc/?username=calebcheptumo&color=green)
+
 
 
 
