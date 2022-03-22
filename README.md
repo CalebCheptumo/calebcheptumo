@@ -10,4 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcheptumo&langs_count=5&theme=tokyonight)]()
 
-![Visitor Count](https://profile-counter.glitch.me/calebcheptumo/count.svg)
+![](https://komarev.com/ghpvc/?username=calebcheptumo&color=green)
+
