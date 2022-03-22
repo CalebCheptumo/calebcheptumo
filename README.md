@@ -7,3 +7,5 @@
 - ⚡ Fun fact: I enjoy cooking. My specialty is homemade spaghetti and meatballs.
 
 [![Cheptumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcheptumo)](https://github.com/calebcheptumo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcheptumo)](https://github.com/calebcheptumo/github-readme-stats)
