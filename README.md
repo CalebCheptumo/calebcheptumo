@@ -1,8 +1,8 @@
 ### Hi there 👋
-### 👋 Hi, I’m @Cheptumo
-- 👀 I’m interested in Frontend.
+### 👋 Hi, I’m Cheptumo
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning ReactJS.
-- 👯 I’m looking to collaborate with other frontend developers
+- 👯 I’m looking to collaborate with other developers
 - 📫 How to reach me ckibusia@gmail.com
 - ⚡ Fun fact: I enjoy cooking. My specialty is homemade spaghetti and meatballs.
 
