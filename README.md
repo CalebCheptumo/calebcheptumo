@@ -1,10 +1,5 @@
 ### Hi there 👋
 ### 👋 Hi, I’m Cheptumo
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ReactJS.
-- 👯 I’m looking to collaborate with other developers
-- 📫 How to reach me ckibusia@gmail.com
-- ⚡ Fun fact: I enjoy cooking. My specialty is homemade spaghetti and meatballs.
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=calebcheptumo.calebcheptumo) [![Github](https://img.shields.io/github/followers/calebcheptumo?label=Followers&logo=Github)](https://github.com/calebcheptumo)
