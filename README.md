@@ -19,7 +19,7 @@
 
  <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,boostrap,py,django,flutter,dart,nodejs,postgres,sqlite,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,py,django,flutter,dart,nodejs,postgres,sqlite,mysql,mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,androidstudio,aws,bash,cloudflare,emacs,firebase,heroku,jenkins,vim,wordpress)](https://skillicons.dev)
 
 ## 📊 My Github Stats
@@ -39,4 +39,3 @@
  <a href = "https://twitter.com/calebcheptumo"><img src="https://skillicons.dev/icons?i=twitter" width="38px"/></a>
 </p>
 
-![snake gif](https://github.com/accodes21/calebcheptumo/blob/output/github-contribution-grid-snake.svg)
