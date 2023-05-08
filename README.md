@@ -6,13 +6,13 @@
 
 ## Hi I'm Caleb Cheptumo 👋
 
- ▶ I’m currently working on **Web Based Projects**
+
 
  ▶ I’m currently learning **Cloud Computing**
 
  ▶ Most important thing, **I enjoy what I do 😊**
 
- ▶ Feel free to reach out to me at calebcheptumo@gmail.com or +254719450250
+ 
 
  ▶ Fun fact about me **My chrome dino game highscore is 7000! 🙌**
 
