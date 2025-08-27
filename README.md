@@ -26,7 +26,7 @@ Looking forward to collaborating and creating with you!
 - **Hardware Programming:** Arduino
 
 [![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcheptumo&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=calebcheptumo&theme=green&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=calebcheptumo)](https://git.io/streak-stats)
 
 ### Socials
 
